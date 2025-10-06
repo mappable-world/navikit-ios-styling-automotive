@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "MMKStylingAutomotiveNavigation",
             url: "https://mappableworld.s3.eu-west-3.amazonaws.com/MMKStylingAutomotiveNavigation-4.23.0.framework.zip",
-            checksum: "d7425274e2644c5921ceed8808aaba8832ddb129972462d9d02669c642854603"
+            checksum: "7582c7460ce6df19b76f74f1033b089e4df6ac8c9e0986718099a85634957c48"
         ),
         .target(
             name: "MMKStylingAutomotiveNavigationResources",
