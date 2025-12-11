@@ -17,13 +17,13 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/mappable-world/navikit-ios", exact: "4.26.0"),
+        .package(url: "https://github.com/mappable-world/navikit-ios", exact: "4.26.1"),
     ],
     targets: [
         .binaryTarget(
             name: "MMKStylingAutomotiveNavigation",
-            url: "https://mappableworld.s3.eu-west-3.amazonaws.com/MMKStylingAutomotiveNavigation-4.26.0.framework.zip",
-            checksum: "3a57eea61fd53377e9b05a5be7d8fde64a67efc3626bf4f4552009ea68eddb4c"
+            url: "https://mappableworld.s3.eu-west-3.amazonaws.com/MMKStylingAutomotiveNavigation-4.26.1.framework.zip",
+            checksum: "9f59b0e45c920374559a45c0281632bf5260f3cd4cac0cd830b8cb8df96c43e2"
         ),
         .target(
             name: "MMKStylingAutomotiveNavigationResources",
